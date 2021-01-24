@@ -1,0 +1,5 @@
+.phpdoc/*
+vendor
+composer.lock
+build/phpDocumentor.phar
+docs/api

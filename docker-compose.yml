@@ -1,0 +1,6 @@
+version: '2'
+services:
+  php_ebaysdk:
+    build: ./docker/php/7.4-fpm
+    volumes:
+      - ./:/var/www/
